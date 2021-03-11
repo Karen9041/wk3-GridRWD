@@ -7,7 +7,6 @@
   grid-template-rows: auto 1fr 6rem;
   grid-template-columns: 20% 80%;
   min-height: 100vh;
-  justify-items:center;
 }
 
 .opacity-2 {
